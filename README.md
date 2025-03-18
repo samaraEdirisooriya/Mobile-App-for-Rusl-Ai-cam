@@ -1,16 +1,37 @@
-# aicam
+### 🛡️ **Intelligent Surveillance System**  
 
-A new Flutter project.
+#### **📌 System Design & Architecture**  
 
-## Getting Started
+This project is a **real-time surveillance system** designed to integrate AI-powered object detection with smart security controls. It leverages **ESP32-CAM, YOLOv8, cloud computing, and mobile applications** to create an intelligent security solution.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The system architecture is based on the **integration of hardware and software components** to ensure seamless real-time surveillance.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **🔹 Key Components**  
+- **📷 ESP32-CAM Module** – A low-power microcontroller with an integrated **2MP camera** for video capture.  
+- **🧠 YOLOv8 Object Detection Model** – Embedded AI model for real-time **object detection and classification**.  
+- **☁️ Cloud Server** – Manages **storage, live streaming**, and **access control**.  
+- **📱 Mobile Application (Flutter)** – Provides user access to live feeds, controls, and security alerts.  
+- **⚡ Relay Module** – Controls external devices like **lights or alarms** based on AI detection or user input.  
+
+The system processes involve a seamless interaction between **hardware, AI processing, and cloud-based services** to ensure effective security monitoring.  
+
+📌 **Process Flow:**  
+1️⃣ **Camera captures video feed**.  
+2️⃣ **YOLOv8 analyzes video frames** and detects objects.  
+3️⃣ **System sends alerts** if a security event is detected.  
+4️⃣ **Relay module triggers** security devices (lights/alarms).  
+5️⃣ **Live feed & recorded footage** are sent to the cloud.  
+6️⃣ **User receives notifications** via the mobile app.  
+
+
+
+
+---
+
+## 🔗 **GitHub Repository**  
+🌐 [Your Repository Link](#)  
+
+*(Feel free to add badges, GIFs, or setup instructions for more engagement!)* 🚀
