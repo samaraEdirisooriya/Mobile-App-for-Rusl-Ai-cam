@@ -34,7 +34,7 @@ The system processes involve a seamless interaction between **hardware, AI proce
 
 ---
 ## 🔗 **Project Documentation**  
-📄 **Final Project Report (PDF):** [Download Here](path/to/final-documentation.pdf)  
+📄 **Final Project Report (PDF):** [Download Here]((https://github.com/samaraEdirisooriya/Mobile-App-for-Rusl-Ai-cam/blob/main/Revised%20Final%20Report_GroupNo01.pdf))  
 
 ## 🔗 **GitHub Repository**  
 🌐 [Your Repository Link](#)  
