@@ -33,6 +33,8 @@ The system processes involve a seamless interaction between **hardware, AI proce
 
 
 ---
+## 🔗 **Project Documentation**  
+📄 **Final Project Report (PDF):** [Download Here](path/to/final-documentation.pdf)  
 
 ## 🔗 **GitHub Repository**  
 🌐 [Your Repository Link](#)  
