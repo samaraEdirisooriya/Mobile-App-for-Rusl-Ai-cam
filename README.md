@@ -6,8 +6,8 @@ This project is a **real-time surveillance system** designed to integrate AI-pow
 
 ---
 ## Screenshots & Images
-![Project Esp32 Cam](path/to/screenshot1.png)
-![Real-time Tracking Feature](path/to/screenshot2.png)
+![Project Esp32 Cam](Esp32.jpg)
+![Real-time Tracking Feature](Server.png)
 ![Scooter QR Code Unlock](path/to/screenshot3.png)
 
 The system architecture is based on the **integration of hardware and software components** to ensure seamless real-time surveillance.  
