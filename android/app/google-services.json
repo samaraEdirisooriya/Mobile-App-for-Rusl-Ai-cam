@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36001522487",
+    "project_id": "camesp32-8d8ed",
+    "storage_bucket": "camesp32-8d8ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36001522487:android:f68cc6d4ba0ad8e28a70b2",
+        "android_client_info": {
+          "package_name": "com.example.aicam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3N_L9xABG9KWs34TRl3sCEt1Bx0WkjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
